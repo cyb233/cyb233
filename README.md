@@ -1,6 +1,7 @@
 ### Hi there 👋
-Now is learning Java!
-
+Now is learning Java!  
+Try to find a new job!  
+Where is my offer?
 <!--
 **cyb233/cyb233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
