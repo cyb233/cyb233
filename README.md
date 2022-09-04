@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 
-![:name](https://count.getloli.com/get/@cyb233?theme=gelbooru)
+[![:name](https://count.getloli.com/get/@cyb233?theme=gelbooru)](https://count.getloli.com/)
